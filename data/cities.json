@@ -35,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-06T13:08:32.000Z",
+      "notes": "Incredible trip to Paris.",
+      "position": {
+        "lat": "48.87239311228893",
+        "lng": "2.3085021972656254"
+      },
+      "id": 98443198
     }
   ]
 }
