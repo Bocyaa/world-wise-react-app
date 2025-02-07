@@ -1,52 +1,328 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Frankfurt am Main",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-01-28T15:22:52.000Z",
+      "notes": "I came to the Germany this day for the first time in my life.",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "50.111331760131",
+        "lng": "8.684692382812502"
       },
-      "id": 73930385
+      "id": 1
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Halle (Saale)",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-01-28T15:25:27.000Z",
+      "notes": "I came to Halle on train. I had an exam in the next day.",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "51.478817095136684",
+        "lng": "11.970291137695314"
       },
-      "id": 17806751
+      "id": 2
+    },
+    {
+      "cityName": "Munich",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-01-31T15:26:40.000Z",
+      "notes": "I came to Munich from Halle, because I had another exam at 'Studienkolleg' which I eventually haven't attended. ",
+      "position": {
+        "lat": "48.1367666796927",
+        "lng": "11.574783325195314"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Zurich",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2022-02-05T15:29:19.000Z",
+      "notes": "After missing the entrance-exam in Munich, we suddenly decided to visit Zurich for 1 day and see the city with our own eyes. ",
+      "position": {
+        "lat": "47.37370965616847",
+        "lng": "8.536376953125002"
+      },
+      "id": 4
     },
     {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "date": "2022-02-07T15:31:07.000Z",
+      "notes": "After Zurich, I came to Berlin and lived in Baha's apartment. He is like an elder brother for me. We lived together, it was quite a fun. He is nice and I appreciate his help and support. ",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "52.51454943590015",
+        "lng": "13.392333984375"
       },
-      "id": 98443197
+      "id": 5
+    },
+    {
+      "cityName": "Leipzig",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-02-06T15:33:43.549Z",
+      "notes": "After I started my education in Halle, I started to go to Leipzig quite often.",
+      "position": {
+        "lat": "51.34047835087382",
+        "lng": "12.37541198730469"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Magdeburg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-04-27T14:35:11.000Z",
+      "notes": "My current college organized this trip. I and the whole group of students went to this city, and have seen the big church, oh and also an incredible planetary museum.",
+      "position": {
+        "lat": "52.13011607781289",
+        "lng": "11.63280487060547"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Dresden",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-06-11T14:38:22.000Z",
+      "notes": "I remember, we had a D-Ticket for 9 EUR that allowed us to travel all over the Germany. That was a great time.",
+      "position": {
+        "lat": "51.04808529780247",
+        "lng": "13.738059997558596"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Heidelberg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-06-17T14:42:29.000Z",
+      "notes": "After visiting Dresden, we took a train to Heidelberg, with our 9 EUR ticket.",
+      "position": {
+        "lat": "49.40605868901243",
+        "lng": "8.683834075927736"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Hamburg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-08-11T14:44:36.000Z",
+      "notes": "This day was my birthday.",
+      "position": {
+        "lat": "53.54765154616002",
+        "lng": "9.998245239257814"
+      },
+      "id": 10
+    },
+    {
+      "cityName": "Stuttgart",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-08-19T14:45:26.000Z",
+      "notes": "Mom couldn't get a Visa, but the hotel in Stuttgart was already booked. So we decided to go there without Mom, :/",
+      "position": {
+        "lat": "48.77655528128252",
+        "lng": "9.17787551879883"
+      },
+      "id": 11
+    },
+    {
+      "cityName": "Bad Reichenhall",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-02-06T15:49:38.831Z",
+      "notes": "We booked an apartment with other guys from our college before visiting Salzburg. ",
+      "position": {
+        "lat": "47.72370734243013",
+        "lng": "12.872242927551271"
+      },
+      "id": 12
+    },
+    {
+      "cityName": "Salzburg",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2025-02-06T15:50:28.225Z",
+      "notes": "This is the home city of Mozart!",
+      "position": {
+        "lat": "47.79908854058746",
+        "lng": "13.044204711914064"
+      },
+      "id": 13
+    },
+    {
+      "cityName": "Konigssee",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-02-06T15:52:58.098Z",
+      "notes": "We have to visit this place in summer once more.",
+      "position": {
+        "lat": "47.588271224027785",
+        "lng": "12.989208698272707"
+      },
+      "id": 14
+    },
+    {
+      "cityName": "Nuremberg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-12-29T15:54:16.000Z",
+      "notes": "We visited this city for the first time, but we never thought that we will live and do bachelor here.",
+      "position": {
+        "lat": "49.450717967273384",
+        "lng": "11.075592041015627"
+      },
+      "id": 15
     },
     {
       "cityName": "Paris",
       "country": "France",
       "emoji": "🇫🇷",
-      "date": "2024-04-06T13:08:32.000Z",
-      "notes": "Incredible trip to Paris.",
+      "date": "2023-04-20T14:57:15.000Z",
+      "notes": "Mom had eventually got her visa. And we went to Paris all together.",
       "position": {
-        "lat": "48.87239311228893",
-        "lng": "2.3085021972656254"
+        "lat": "48.860197534643966",
+        "lng": "2.3428344726562504"
       },
-      "id": 98443198
+      "id": 16
+    },
+    {
+      "cityName": "Amsterdam",
+      "country": "Netherlands",
+      "emoji": "🇳🇱",
+      "date": "2023-04-23T14:58:58.000Z",
+      "notes": "After Paris, we went to Amsterdam. A beautiful city.",
+      "position": {
+        "lat": "52.37203595971475",
+        "lng": "4.896469116210938"
+      },
+      "id": 17
+    },
+    {
+      "cityName": "Nordhausen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-05-18T15:02:11.000Z",
+      "notes": "I went to this awful city to visit my friends from another college.",
+      "position": {
+        "lat": "51.49912573429843",
+        "lng": "10.790290832519533"
+      },
+      "id": 18
+    },
+    {
+      "cityName": "Naumburg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-05-24T15:04:24.000Z",
+      "notes": "Second trip organized by my college in Halle. We went to the wine-Keller and saw how they do the actual wines in Germany. ",
+      "position": {
+        "lat": "51.15253982875564",
+        "lng": "11.80858612060547"
+      },
+      "id": 19
+    },
+    {
+      "cityName": "Darmstadt",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-10-01T15:07:56.000Z",
+      "notes": "I visited my friends Amirshox and Asliddin. ",
+      "position": {
+        "lat": "49.87251263825472",
+        "lng": "8.64830017089844"
+      },
+      "id": 20
+    },
+    {
+      "cityName": "Dubai",
+      "country": "UAE",
+      "emoji": "🇦🇪",
+      "date": "2025-02-06T16:10:41.101Z",
+      "notes": "Dubai is big, buildings are big, roads are big, in this city everything is big.",
+      "position": {
+        "lat": "25.260532132051743",
+        "lng": "55.30139923095704"
+      },
+      "id": 21
+    },
+    {
+      "cityName": "Abu Dhabi",
+      "country": "UAE",
+      "emoji": "🇦🇪",
+      "date": "2025-02-06T16:12:01.239Z",
+      "notes": "This trip was a mistake. ",
+      "position": {
+        "lat": "24.461213177048137",
+        "lng": "54.376487731933594"
+      },
+      "id": 22
+    },
+    {
+      "cityName": "Vienna",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-03-21T16:17:36.000Z",
+      "notes": "My first visit, to the real Royal city in Europe.",
+      "position": {
+        "lat": "48.206371336358906",
+        "lng": "16.369628906250004"
+      },
+      "id": 23
+    },
+    {
+      "cityName": "Kepez",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-06-29T15:19:41.000Z",
+      "notes": "Me, Fazi and Mom went to a hotel where endless food, hot weather and beach.",
+      "position": {
+        "lat": "36.90625441312242",
+        "lng": "30.685501098632816"
+      },
+      "id": 24
+    },
+    {
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2022-01-27T16:21:04.000Z",
+      "notes": "It was an accident, our plane was late, and we missed a next plane so we stood in Istanbul for 1 day.",
+      "position": {
+        "lat": "41.02135510866602",
+        "lng": "28.987426757812504"
+      },
+      "id": 25
+    },
+    {
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-12-09T16:24:30.000Z",
+      "notes": "",
+      "position": {
+        "lat": "50.08005710712455",
+        "lng": "14.431915283203125"
+      },
+      "id": 26
+    },
+    {
+      "cityName": "Tashkent",
+      "country": "Uzbekistan",
+      "emoji": "🇺🇿",
+      "date": "1999-08-11T15:40:59.000Z",
+      "notes": "I was born here.",
+      "position": {
+        "lat": "41.32010701725659",
+        "lng": "69.25094604492189"
+      },
+      "id": 27
     }
   ]
 }
