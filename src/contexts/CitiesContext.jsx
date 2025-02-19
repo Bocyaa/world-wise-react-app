@@ -183,5 +183,4 @@ function useCities() {
   return context;
 }
 
-// TODO:
 export { CitiesProvider, useCities };
